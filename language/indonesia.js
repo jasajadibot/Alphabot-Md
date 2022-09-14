@@ -536,7 +536,7 @@ exports.ok = () => {
 }
 
 exports.err = () => {
-    return `⚠️ Fitur Sedang Error`
+    return `⚠️ Fitur Sedang Error gosah spam kontol`
 }
 exports.erorLink = () => {
     return `⚠️ Link nya error`
@@ -595,7 +595,7 @@ exports.adminAlready = () => {
 }
 
 exports.botNotAdmin = () => {
-    return `Jadikan bot sebagai admin terlebih dahulu! 🙏`
+    return `Jadikan bot sebagai admin terlebih dahulu! 🖕`
 }
 
 exports.received = (pushname) => {
