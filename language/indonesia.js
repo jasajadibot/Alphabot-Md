@@ -657,8 +657,8 @@ Goodbye`
 exports.source = () =>{
 return`*------「 SOURCE CODE 」 ------*
 
-Base : https://github.com/DikaArdnt/Hisoka-Morou
-Recode : https://github.com/zeeoneofc/Alphabot-Md
+Base : https://yandex.com
+Recode : https://yandex.com
 `
 }
 exports.tos = (ownernomer) => {
