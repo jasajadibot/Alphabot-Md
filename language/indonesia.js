@@ -1313,7 +1313,7 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ├ ${prefix}geayubi
 ├ ${prefix}santuy
 ├ ${prefix}ukhty
-╰❒ ${prefix}syifa
+╰❒ ${prefix}lexzz store
 
 ╭─❒ 「 Telegram Sticker 」
 ├ ${prefix}awoawo
@@ -1559,8 +1559,8 @@ Goodbye`
 exports.source = () =>{
 return`*------「 SOURCE CODE 」 ------*
 
-Base : https://yandex.com
-Recode : https://yandex.com
+Jasa Sewa bot : https://wa.me/6285743137623
+Jasa Jadi Bot : https://wa.me/6285743137623
 `
 }
 exports.tos = (ownernomer) => {
