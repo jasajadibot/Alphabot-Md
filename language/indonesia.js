@@ -724,21 +724,21 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 *📚 List-Menu Bot :*
 
 ╭─❒ 「 Bot Info 」 
-│○ !owner
-│○ !rules
-│○ !sc
-│○ !ping
-│○ !runtime
-│○ !botstatus
-╰❒ !donate
+│○ .owner
+│○ .rules
+│○ .sc
+│○ .ping
+│○ .runtime
+│○ .botstatus
+╰❒ .donate
 
 
 ╭─❒ 「 Owner 」 
-│○ !setmenu [query]
-│○ !setmenu templateLocation
-│○ !setmenu templateTenor
-│○ !setmenu katalog
-│○ !setmenu katalog2
+│○ .setmenu [query]
+│○ .setmenu templateLocation
+│○ .setmenu templateTenor
+│○ .setmenu katalog
+│○ .setmenu katalog2
 │○ !setmenu list
 │○ !setwm packname|author
 │○ !sendsesi
@@ -1718,7 +1718,7 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 │○ Nurutomo
 │○ Rashid
 │○ ZeeoneOfc
-│○ Penyedia Module
+│○ Balz Ofc
 ╰❒ And All Support
     `
 }
@@ -1766,8 +1766,8 @@ Goodbye`
 exports.source = () =>{
 return`*------「 SOURCE CODE 」 ------*
 
-Base : https://github.com/DikaArdnt/Hisoka-Morou
-Recode : https://youtube.com/playlist?list=PLFCglBzFPHG7vSQaa9S3P8yfla_d9w-2-
+Base : httsp://yandex.com
+Recode : httsp://wa.me/6285743137623
 `
 }
 exports.tos = (ownernomer) => {
