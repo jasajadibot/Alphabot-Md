@@ -18,18 +18,18 @@ global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 
 // Other
-global.botname = "Ashシャブ-Mdོ"
-global.ownername= "ᴹᴿ᭄ AshXav Store Ofcོ ×፝֟͜×"
+global.botname = "balz botz-Mdོ"
+global.ownername= "ᴹᴿ᭄ Balz Ofcོ ×፝֟͜×"
 global.myweb ="https://yandex.com"
 global.youtube = "https://yandex.com"
 global.github = "https://yandex.com"
-global.ownernomer = "6283826148348"
-global.ownernomerr = "+6283826148348"
+global.ownernomer = "6285743137623"
+global.ownernomerr = "+6285743137623"
 global.thumbnail = "./image/lol.jpg"
 global.donasi = "./image/donasi.jpg"
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.owner = ["6283826148348","6283826148348","6283826148348"] //ganti agar fitur owner bisa di gunakan
-global.packname = '© Ashシャブ-Mdོ' //sticker wm
+global.packname = '© balz botz-Mdོ' //sticker wm
 global.author = 'Di Buat Oleh Balz Ofc' //sticker wm
 global.sessionName = 'session'
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
